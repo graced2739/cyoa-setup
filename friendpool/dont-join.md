@@ -1,1 +1,2 @@
 You rushed to the bathroom, leaving your friend confused. Once you came out you told your friend that you wanted to go home. They agreed and offered you another drink;you instantly ran home.
+## [Restart](../vacation.md)
