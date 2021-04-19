@@ -2,5 +2,5 @@
 ---
 would you like to get a drink from the bar  
 
-### [yes]()  
-### [No]()  
+### [yes](get-drink.md)  
+### [No](no-drinks.md)  
