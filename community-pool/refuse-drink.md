@@ -1,2 +1,6 @@
-You say no to the drinks and just have fun in the pool.
-## [Restart](../vacation.md)
+
+### No drink 
+---
+Your going to sit by the pool and enjoy the rest of the day.  
+
+## [Restart](vacation.md)

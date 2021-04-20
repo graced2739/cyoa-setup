@@ -1,2 +1,2 @@
-You say no to the drinks so you and your friend just relax in the pool and have fun.
+You say no to the drinks and just have fun in the pool.
 ## [Restart](../vacation.md)
