@@ -1,4 +1,4 @@
-##You went to sit and relaxing to get that summer tan.
+## You went to sit and relaxing to get that summer tan.
 ---
 How long do you want to sit for?
 
