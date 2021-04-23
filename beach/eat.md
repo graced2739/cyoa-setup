@@ -1,0 +1,2 @@
+You and your family went to the restaurant next to the beach and ate until you guys were full. You guys decided to just sit in the sand and watch the scenery for an hour. After that you guys started to play in the water.
+## [Restart](../vacation/.md)
